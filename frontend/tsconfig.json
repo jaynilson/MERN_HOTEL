@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "esModuleInterop": true,
+        "jsx": "react",
+        "target": "es5", // or "es6", "es2015", etc.
+        "lib": [
+            "dom",
+            "es2015"
+        ], // Include "es2015" or later
+        "module": "commonjs",
+        "strict": true,
+        "skipLibCheck": true,
+        // other options...
+    }
+}
